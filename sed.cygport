@@ -1,0 +1,11 @@
+NAME="sed"
+VERSION=4.2.2
+RELEASE=1
+CATEGORY="Base"
+SUMMARY="GNU stream editor"
+DESCRIPTION="sed is a stream or batch (non-interactive editor.  It takes text
+as input, performs an operation or set of operations on the text and outputs
+the modified text.  The operations that sed performs (substitutions, deletions,
+insertions, etc.) can be specified in a script file or from the command line."
+HOMEPAGE="http://www.gnu.org/software/sed/"
+SRC_URI="mirror://gnu/sed/sed-${VERSION}.tar.bz2"
